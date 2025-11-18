@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey! 👋 I'm [Your Name]  
 
-<!--
-**millercreator/millercreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Dev** | **Open Source Lover** | Turning coffee into code ☕→💻  
 
-Here are some ideas to get you started:
+Currently building cool stuff with **[React, Next.js, TypeScript, Node.js]** (or whatever your main stack is)  
+Previously at **[Company Name]** / Student at **[University]**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 **What I'm working on right now**  
+→ [One-liner about your current big project or goal] (e.g., "Building a real-time collab tool used by 5k+ people")  
+→ Obsessed with clean code, performance, and great UX  
+
+🛠️ **Tech Stack I live in**  
+```text
+JavaScript · TypeScript · React · Next.js · Node.js · Tailwind · Python · Docker · etc.

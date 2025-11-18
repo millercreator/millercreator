@@ -1,9 +1,6 @@
-Here’s a clean, bold, and persuasive GitHub profile README template you can copy and tune. It’s simple to scan, has clear sections, and uses short, direct phrasing.
 
 
----
-
-👋 Hey, I’m [Your Name]
+👋 Hey, I’m Joshua Miller 
 
 I build things that solve real problems. I care about clean code, sharp design, and steady growth.
 
@@ -71,8 +68,3 @@ Pair coding sessions
 Email: yourname@example.com
 LinkedIn: link
 Website: link
-
-
----
-
-If you'd like, I can shape this into a more personal version based on your skills, projects, and style.

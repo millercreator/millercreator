@@ -1,8 +1,12 @@
 
 
-👋 Hey, I’m Joshua Miller 
+👋 Hi there, I’m Joshua Miller 
+---
 
 I build things that solve real problems. I care about clean code, sharp design, and steady growth.
+
+
+### My contribution to humanity
 
 🔧 What I Do
 

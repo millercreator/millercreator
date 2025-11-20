@@ -20,6 +20,10 @@ I'm currently building **NutriSnap**, an AI app that helps you eat better by sna
 - ▢ Beta Launch & User Feedback
 
 
+
+![Static Badge](https://img.shields.io/badge/Typescript?style=flat&logo=typescript&logoColor=%233178C6)
+
+
 ### My contribution to humanity
 
 🔧 What I Do

@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://millercreator.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millercreator/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jme_creator)
+[![Twitter](https://img.shields.io/badge/X_(Formerly_Twitter)-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jme_creator)
 
 A full-stack engineer with hands-on experience in backend and frontend development, and a growing focus on building smart apps that use AI. I combine engineering practices with practical product thinking to build software that's useful and easy to use. I’ve built APIs, PWAs, web interfaces, and tools that automate routine tasks and make life easier for users. I'm particularly passionate about progressive web applications and I spend most of my time researching and building them, focusing on both the engineering and user experience. Daily my contribution aims to bridge the gap between native apps and the web, and provide practical alternatives to app store gatekeeping.
 

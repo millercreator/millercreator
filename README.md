@@ -25,10 +25,10 @@ I'm currently building **NutriSnap**, an AI app that helps you eat better by sna
 
 📬 Reach Me
 
-Email: your.email@example.com
-LinkedIn: linkedin.com/in/yourprofile
-Website: yourwebsite.com
-X (Twitter): @yourhandle
+- Email: your.email@example.com
+- LinkedIn: linkedin.com/in/yourprofile
+- Website: yourwebsite.com
+- X (Twitter): @yourhandle
 
 
 ## 🧰 My Toolbox

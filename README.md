@@ -5,7 +5,7 @@ A full-stack engineer with hands-on experience in backend and frontend developme
 
 My background in product design helps me pay attention to how each feature works, how it feels to use, and how it fits into the larger system. I’m looking for full-stack roles (or similar paths) where I can help build systems that scale and bring together tech, design, and AI. You can say its a personal pocket-friendly Nutrition Coach 😊
 
-### 🚀 What I’m Working On
+## 🚀 What I’m Working On
 
 I'm currently building **NutriSnap**, an AI app that helps you eat better by snapping photos of your food and also suggesting balanced meals. It tracks your nutrients over time, spots what you're missing, and suggests balanced meals to keep you healthy without the stress.
 
@@ -20,14 +20,14 @@ I'm currently building **NutriSnap**, an AI app that helps you eat better by sna
 - ▢ Beta Launch & User Feedback
 
 
-### 🧰 My Toolbox
+## 🧰 My Toolbox
 
-####  Programming Languages
+###  Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### Frameworks
+###  Frameworks
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -36,31 +36,31 @@ I'm currently building **NutriSnap**, an AI app that helps you eat better by sna
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-#### Tools and Editors
+###  Tools and Editors
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### Cloud Platforms
+###  Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-#### Databases
+###  Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### DevOps Tools
+###  DevOps Tools
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-#### Design Tools
+###  Design Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-%23000000?style=for-the-badge&logo=framer&logoColor=white)
 

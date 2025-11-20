@@ -23,6 +23,13 @@ I'm currently building **NutriSnap**, an AI app that helps you eat better by sna
 - ▢ Internal Testing & Bug Fixes
 - ▢ Beta Launch & User Feedback
 
+📬 Reach Me
+
+Email: your.email@example.com
+LinkedIn: linkedin.com/in/yourprofile
+Website: yourwebsite.com
+X (Twitter): @yourhandle
+
 
 ## 🧰 My Toolbox
 
@@ -67,73 +74,3 @@ I'm currently building **NutriSnap**, an AI app that helps you eat better by sna
 ###  Design Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-%23000000?style=for-the-badge&logo=framer&logoColor=white)
-
-
-
-
-### My contribution to humanity
-
-🔧 What I Do
-
-Build apps that feel fast and clear
-
-Turn ideas into simple working parts
-
-Fix issues with direct, practical steps
-
-Write code that is easy to read and reuse
-
-
-🚀 Current Focus
-
-Learning: [Tech you’re learning]
-
-Building: [Project name]
-
-Improving: [Skill you’re sharpening]
-
-
-🛠 Tech I Use Often
-
-Languages:
-JavaScript • TypeScript • Python • [Add yours]
-
-Tools:
-Node.js • React • Git • Docker • [Add yours]
-
-🌱 Recent Work
-
-[Project name] — short, clear one-line description
-
-[Project name] — what it does and why it helps
-
-[Project name] — note anything unique or smart
-
-
-📈 What I Bring
-
-Clear thinking
-
-Fast learning
-
-Strong problem-solving
-
-Simple, low-stress teamwork
-
-
-🤝 Open to
-
-New project ideas
-
-Small or large features
-
-Code reviews
-
-Pair coding sessions
-
-
-📬 Reach Me
-
-Email: yourname@example.com
-LinkedIn: link
-Website: link

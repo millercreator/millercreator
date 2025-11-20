@@ -3,11 +3,11 @@
 
 A full-stack engineer with hands-on experience in backend and frontend development, and a growing focus on building smart apps that use AI. I combine engineering practices with practical product thinking to build software that's useful and easy to use. I’ve built APIs, PWAs, web interfaces, and tools that automate routine tasks and make life easier for users. I'm particularly passionate about progressive web applications and I spend most of my time researching and building them, focusing on both the engineering and user experience. Daily my contribution aims to bridge the gap between native apps and the web, and provide practical alternatives to app store gatekeeping.
 
-My background in product design helps me pay attention to how each feature works, how it feels to use, and how it fits into the larger system. I’m looking for full-stack roles (or similar paths) where I can help build systems that scale and bring together tech, design, and AI. You can say its a personal pocket-friendly Nutrition Coach 😊
+My background in product design helps me pay attention to how each feature works, how it feels to use, and how it fits into the larger system. I’m looking for full-stack roles (or similar paths) where I can help build systems that scale and bring together tech, design, and AI.
 
 ## 🚀 What I’m Working On
 
-I'm currently building **NutriSnap**, an AI app that helps you eat better by snapping photos of your food and also suggesting balanced meals. It tracks your nutrients over time, spots what you're missing, and suggests balanced meals to keep you healthy without the stress.
+I'm currently building **NutriSnap**, an AI app that helps you eat better by snapping photos of your food and also suggesting balanced meals. It tracks your nutrients over time, spots what you're missing, and suggests balanced meals to keep you healthy without the stress.  You can say its a personal pocket-friendly Nutrition Coach 😊
 
 - ✅ Market Research & User Interviews
 - ✅ Feature Planning & Requirements

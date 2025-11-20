@@ -23,7 +23,7 @@ I'm currently building **NutriSnap**, an AI app that helps you eat better by sna
 - ▢ Internal Testing & Bug Fixes
 - ▢ Beta Launch & User Feedback
 
-📬 Reach Me
+## 📬 Reach Me
 
 - Email: your.email@example.com
 - LinkedIn: linkedin.com/in/yourprofile

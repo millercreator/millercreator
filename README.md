@@ -1,6 +1,10 @@
 
 # Hi, I'm Josh 👋
 
+[![Website](https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
 A full-stack engineer with hands-on experience in backend and frontend development, and a growing focus on building smart apps that use AI. I combine engineering practices with practical product thinking to build software that's useful and easy to use. I’ve built APIs, PWAs, web interfaces, and tools that automate routine tasks and make life easier for users. I'm particularly passionate about progressive web applications and I spend most of my time researching and building them, focusing on both the engineering and user experience. Daily my contribution aims to bridge the gap between native apps and the web, and provide practical alternatives to app store gatekeeping.
 
 My background in product design helps me pay attention to how each feature works, how it feels to use, and how it fits into the larger system. I’m looking for full-stack roles (or similar paths) where I can help build systems that scale and bring together tech, design, and AI.
